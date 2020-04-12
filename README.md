@@ -13,6 +13,7 @@ Additional resources for ctrl-f.dev. If you have additional links for this list,
 
 * [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - (CSS Flexbox Guide) CSS Flexbox Guide
 * [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - (CSS Grid Guide) CSS Grid Guide
+* [Animation](https://css-tricks.com/almanac/properties/a/animation/) - (CSS Animation Guide) Animation with CSS
 
 ## Cobol
 
