@@ -1,5 +1,14 @@
 # tutorial-list
 
+Additional resources for ctrl-f.dev. If you have additional links for this list, please first check on ctrl-f.dev if they are already indexed. If not, follow these steps:
+
+- Fork this repository
+- Create a new branch: `git checkout -b branch_name`
+- Add your links to this file
+- Make a commit `git add . && git commit`
+- Push your branch
+- Create a Pull Request
+
 ## CSS
 
 * [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - (CSS Flexbox Guide) CSS Flexbox Guide
