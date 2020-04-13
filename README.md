@@ -32,8 +32,15 @@ Additional resources for ctrl-f.dev. If you have additional links for this list,
 ## Go
 
 - [Writing a SQL Database in Go](https://notes.eatonphil.com/database-basics.html) - Writing a SQL Database in Go
+- [How to use Interfaces in Go](https://dormoshe.io/daily-news/how-to-use-interfaces-in-go-2069.93) - Using Interfaces in Go
+
+## Compilers
+
+- [So you want to be Compiler Wizard](https://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/) - About writing compilers
+- 
 
 ## General
 
 - [Good Programming Practices](https://ryanstutorials.net/software-design-and-development/good-programming-practice.php) - Good Programming practices
 - [Programming Servo](https://medium.com/programming-servo/programming-servo-my-own-private-runtime-8a5ba74c63c8) - Programming Servo
+- [The Story of Visual Studio Code](https://changelog.com/podcast/277) - Learn about the story behind Visual Studio Code
