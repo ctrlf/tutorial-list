@@ -29,6 +29,11 @@ Additional resources for ctrl-f.dev. If you have additional links for this list,
 - [Hexes and other magical numbers](https://medium.com/basecs/hexs-and-other-magical-numbers-9785bc26b7ee) - Hexadecimal numbers and more
 - [Bits, Bytes, Building with Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa) - Bits, Bytes, Building with Binary
 
+## Go
+
+- [Writing a SQL Database in Go](https://notes.eatonphil.com/database-basics.html) - Writing a SQL Database in Go
+
 ## General
 
 - [Good Programming Practices](https://ryanstutorials.net/software-design-and-development/good-programming-practice.php) - Good Programming practices
+- [Programming Servo](https://medium.com/programming-servo/programming-servo-my-own-private-runtime-8a5ba74c63c8) - Programming Servo
