@@ -28,3 +28,7 @@ Additional resources for ctrl-f.dev. If you have additional links for this list,
 
 - [Hexes and other magical numbers](https://medium.com/basecs/hexs-and-other-magical-numbers-9785bc26b7ee) - Hexadecimal numbers and more
 - [Bits, Bytes, Building with Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa) - Bits, Bytes, Building with Binary
+
+## General
+
+- [Good Programming Practices](https://ryanstutorials.net/software-design-and-development/good-programming-practice.php) - Good Programming practices
