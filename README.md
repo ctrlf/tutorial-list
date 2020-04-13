@@ -37,7 +37,6 @@ Additional resources for ctrl-f.dev. If you have additional links for this list,
 ## Compilers
 
 - [So you want to be Compiler Wizard](https://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/) - About writing compilers
-- 
 
 ## General
 
