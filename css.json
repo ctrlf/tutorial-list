@@ -1,0 +1,9 @@
+{
+  "topic": "css",
+  "is_programming_language": true,
+  "links": [
+    "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "https://css-tricks.com/snippets/css/complete-guide-grid/",
+    "https://css-tricks.com/almanac/properties/a/animation/"
+  ]
+}
