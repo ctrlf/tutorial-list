@@ -1,0 +1,26 @@
+{
+  "topic": "javascript",
+  "is_programming_language": true,
+  "links": [
+    "https://github.com/getify/You-Dont-Know-JS",
+    "http://jstherightway.org/",
+    "https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/",
+    "http://www.jblotus.com/2013/01/13/common-javascript-gotchas/",
+    "https://www.simplethread.com/preparing-yourself-for-modern-javascript-development/",
+    "https://docs.microsoft.com/en-us/previous-versions/msdn10/ff852808(v=msdn.10)",
+    "https://github.com/airbnb/javascript",
+    "https://jsbooks.revolunet.com/",
+    "https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition",
+    "https://eloquentjavascript.net/",
+    "https://javascript.info",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/",
+    "https://github.com/getify/You-Dont-Know-JS/blob/master/README.md",
+    "https://javascript30.com",
+    "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+    "https://www.codecademy.com/learn/paths/web-development",
+    "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+    "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA",
+    "http://read.humanjavascript.com"
+  ]
+}
