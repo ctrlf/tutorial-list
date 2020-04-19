@@ -1,4 +1,4 @@
-# tutorial-list
+# tutorial-list [![Build Status](https://dev.azure.com/jan0575/CTRL-F%20Tutorial%20Lists/_apis/build/status/ctrlf.tutorial-list?branchName=master)](https://dev.azure.com/jan0575/CTRL-F%20Tutorial%20Lists/_build/latest?definitionId=3&branchName=master)
 
 Additional resources for ctrl-f.dev. If you have additional links for this list, please first check on ctrl-f.dev if they are already indexed.
 
